@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import { ethers } from "ethers";
 import { contractAddress, contractABI } from "../../lib/contract";
-import { MetamaskInpageProvider } from "@metamask/providers";
+import { MetaMaskInpageProvider } from "@metamask/providers";
 
 declare global {
   interface Window {
