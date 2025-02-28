@@ -1,0 +1,24 @@
+{
+    "name": "UNO",
+    "description": "Blockchain",
+    "symbol": "Display01",
+    "image": "https://i.imgur.com/OIUmGhL.jpeg",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "EXCLUSIVE BADGE"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "selyo.quest"
+        }
+    ]
+}
